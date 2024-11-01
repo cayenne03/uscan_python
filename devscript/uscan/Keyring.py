@@ -2,6 +2,7 @@ import os
 import shutil
 import subprocess
 import tempfile
+import re
 from pathlib import Path
 import UscanOutput
 
